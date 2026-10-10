@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+fastapi
+uvicorn
+websockets
+joblib
+pytest
+httpx
